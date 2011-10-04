@@ -1,3 +1,5 @@
+Please use at your own risk
+
 What is it
 ==========
 ofxScratch is openFrameworks addon for connect to Scratch with remort-sensor protocol.
