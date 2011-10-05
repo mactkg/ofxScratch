@@ -39,16 +39,16 @@ void ofxScratch::update() {
     }
 }
 
-void ofxScratch::sensorUpdate(string sensor, string value) {
-	msgTx = "sensor-update \"" + sensor + "\" " + value;
+void ofxScratch::sensorUpdate(string sensor, string val) {
+	msgTx = "sensor-update \"" + sensor + "\" " + val;
 	if(!broadcastScratch(msgTx)) {
     std::cout << "connection is lost" << endl;
     weConnected = false;
 	}
 }
 
-void ofxScratch::sendBroadcast(string value) {
-	msgTx = "broadcast \"" + value + "\"";
+void ofxScratch::sendBroadcast(string val) {
+	msgTx = "broadcast \"" + val + "\"";
 	if(broadcastScratch(msgTx)) {
     std::cout << "connection is lost" << endl;
     weConnected = false;
@@ -75,3 +75,16 @@ bool ofxScratch::broadcastScratch(string message){
 	   return false;  
 	}
 }
+
+int ofxScratch::getConnectTime() {
+  return connectTime;
+}
+
+int ofxScratch::getDeltaTime() {
+  return deltaTime;
+}
+
+bool ofxScratch::getWeConnected() {
+  return weConnected;
+}
+

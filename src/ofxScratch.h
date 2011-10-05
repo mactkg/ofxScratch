@@ -7,8 +7,8 @@
  *
  */
 
-#ifndef _OFXSCRATCH_H
-#define _OFXSCRATCH_H
+#ifndef _OFXSCRATCH_H_
+#define _OFXSCRATCH_H_
 
 #include "ofxNetwork.h"
 
@@ -16,10 +16,14 @@ class ofxScratch {
 public:
 	void setup();
 	void update();
-	void sensorUpdate(string sensor, string value);
-	void sendBroadcast(string value);
-	bool broadcastScratch(string message);
+	void sensorUpdate(string sensor, string val);
+	void sendBroadcast(string val);
+	int getConnectTime();
+  int getDeltaTime();
+  bool getWeConnected();
 
+private:
+	bool broadcastScratch(string message);
 	ofxTCPClient tcpClient;
 	string msgTx, msgRx;
 
