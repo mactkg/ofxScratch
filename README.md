@@ -11,13 +11,12 @@ I will write a usage soon.
 
 REQUIRE ADDONS
 ==============
--ofxNetwork(0.01)
--ofxThread(0.01)
+- ofxNetwork(0.01)
+- ofxThread(0.01)
 
 CHANGE LOG
 ==========
-- 2011/10/13 - v002 release
--- add some message while connect
+- 2011/10/13 - v002 release (add some message while connect)
 - 2011/10/05 - v001 release
 
 made by @mactkg
