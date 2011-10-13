@@ -1,1200 +1,0 @@
-TemptyExample
-v7
-r0
-t339447707.758630
-cCheck dependencies
-cProcessInfoPlistFile /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/bin//emptyExampleDebug.app/Contents/Info.plist openFrameworks-Info.plist
-cProcessPCH++ /var/folders/-+/-+cpBmMNHfinPIZKUpFu1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-gbstarlscdzpjgfhfxnoajicbvlp/Carbon.h.gch /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.gcc.4_2
-cCompileC build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/main.o /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/main.cpp normal i386 c++ com.apple.compilers.gcc.4_2
-cCompileC build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/testApp.o /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp normal i386 c++ com.apple.compilers.gcc.4_2
-cCompileC build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/ofxScratch.o /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp normal i386 c++ com.apple.compilers.gcc.4_2
-cPhaseScriptExecution スクリプトを実行 /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build/Debug/emptyExample.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
-cPBXCp bin/emptyExampleDebug.app/Contents/Frameworks/GLUT.framework ../../../libs/glut/lib/osx/GLUT.framework
-cPBXCp bin/emptyExampleDebug.app/Contents/Resources/openFrameworks-Info.plist openFrameworks-Info.plist
-
-N/Developer/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stddef.h
-c000000004A1198340000000000003197
-t1242667060
-s12695
-i<machine/ansi.h>
-i<sys/_types.h>
-
-N/System/Library/Frameworks/AGL.framework/AGL
-c000000004D6EE4860000000000043820
-t1299113094
-s276512
-
-N/System/Library/Frameworks/AppKit.framework/AppKit
-c000000004DF9F71B0000000002B5C7A0
-t1308227355
-s45467552
-
-N/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
-c000000004A12050E0000000000022140
-t1242694926
-s139584
-
-N/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.h
-c000000004CC410E50000000000000477
-t1287917797
-s1143
-
-N/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
-c000000004DD5EC60000000000051BA20
-t1305865312
-s5356064
-
-N/System/Library/Frameworks/Carbon.framework/Carbon
-c000000004D76E3E6000000000000A5F0
-t1299637222
-s42480
-
-N/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
-c000000004CC41EA700000000000005FF
-t1287921319
-s1535
-
-N/System/Library/Frameworks/Cocoa.framework/Cocoa
-c000000004A1F2D63000000000000A5E0
-t1243557219
-s42464
-
-N/System/Library/Frameworks/CoreAudio.framework/CoreAudio
-c000000004DEEB6D200000000002181A0
-t1307490002
-s2195872
-
-N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
-c000000004DF9F7A60000000000781330
-t1308227494
-s7869232
-
-N/System/Library/Frameworks/CoreServices.framework/CoreServices
-c000000004C23F49F0000000000021710
-t1277424799
-s136976
-
-N/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h
-c000000004CC3FFFE0000000000000401
-t1287913470
-s1025
-
-N/System/Library/Frameworks/IOKit.framework/IOKit
-c000000004DF9F7CC000000000017B260
-t1308227532
-s1552992
-
-N/System/Library/Frameworks/OpenGL.framework/Headers/gl.h
-c0000000049EE83DA0000000000025B59
-t1240368090
-s154457
-
-N/System/Library/Frameworks/OpenGL.framework/Headers/glu.h
-c0000000049EE83DA0000000000003F84
-t1240368090
-s16260
-
-N/System/Library/Frameworks/OpenGL.framework/OpenGL
-c000000004DF9F72F0000000000043360
-t1308227375
-s275296
-
-N/System/Library/Frameworks/QuickTime.framework/Headers/QuickTime.h
-c000000004CC420410000000000000659
-t1287921729
-s1625
-
-N/System/Library/Frameworks/QuickTime.framework/QuickTime
-c000000004DF9F80F0000000000785970
-t1308227599
-s7887216
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/addons/ofxScratch/src/ofxScratch.h
-c000000004E8B3CB90000000000000231
-t1317747897
-s561
-i"ofxNetwork.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp
-c000000004E8B57480000000000000628
-t1317754696
-s1576
-i"ofxScratch.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h
-c000000004E8B3CB90000000000000231
-t1317747897
-s561
-i"ofxNetwork.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../libs/FreeImage/lib/osx/freeimage.a
-c000000004CE33EF80000000000AA64B0
-t1289961208
-s11166896
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../libs/GLee/include/GLee.h
-c000000004CE33EF80000000000090A87
-t1289961208
-s592519
-i<windows.h>
-i<GL/gl.h>
-i<OpenGL/gl.h>
-i<GL/gl.h>
-i<GL/glx.h>
-i<stddef.h>
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../libs/GLee/lib/osx/GLee.a
-c000000004CE33EF800000000000C88C8
-t1289961208
-s821448
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../libs/fmodex/include/fmod.h
-c000000004CE33EF80000000000028E68
-t1289961208
-s167528
-i"fmod_codec.h"
-i"fmod_dsp.h"
-i"fmod_memoryinfo.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../libs/fmodex/include/fmod_errors.h
-c000000004CE33EF80000000000003408
-t1289961208
-s13320
-i"fmod.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../libs/fmodex/lib/osx/libfmodex.dylib
-c000000004CE33EF800000000001DD8CC
-t1289961208
-s1956044
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../libs/freeimage/include/FreeImage.h
-c000000004CE33EF8000000000000CC1B
-t1289961208
-s52251
-i<wchar.h>
-i<inttypes.h>
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../libs/freetype/lib/osx/freetype.a
-c000000004CE33EF800000000004D82C8
-t1289961208
-s5079752
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../libs/glut/lib/osx/GLUT.framework
-c000000004E5D2AC600000000000000EE
-t1314728646
-s238
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../libs/glut/lib/osx/GLUT.framework/GLUT
-c000000004CE33EF8000000000011A218
-t1289961208
-s1155608
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../libs/poco/lib/osx/CppUnit.a
-c000000004CE33EFA000000000003ABB0
-t1289961210
-s240560
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../libs/poco/lib/osx/PocoFoundation.a
-c000000004CE33EFA00000000005A62E8
-t1289961210
-s5923560
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../libs/poco/lib/osx/PocoNet.a
-c000000004CE33EFA0000000000378278
-t1289961210
-s3637880
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../libs/poco/lib/osx/PocoUtil.a
-c000000004CE33EFA00000000000FFB80
-t1289961210
-s1047424
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../libs/poco/lib/osx/PocoXML.a
-c000000004CE33EFA0000000000239BC0
-t1289961210
-s2333632
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../libs/rtAudio/lib/osx/rtAudio.a
-c000000004CE33EFE00000000000BC8E8
-t1289961214
-s772328
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/bin//emptyExampleDebug.app
-t2
-s0
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/bin//emptyExampleDebug.app/Contents/Info.plist
-t1317754899
-s1008
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/bin//emptyExampleDebug.app/Contents/MacOS/emptyExampleDebug
-t2
-s0
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/bin//emptyExampleDebug.app/Contents/PkgInfo
-t1317754899
-s8
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/bin/emptyExampleDebug.app/Contents/Frameworks/GLUT.framework
-t1317754906
-s204
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/bin/emptyExampleDebug.app/Contents/Resources/openFrameworks-Info.plist
-t1317754907
-s631
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/emptyExampleDebug.LinkFileList
-c000000004E8B581200000000000001FB
-t1317754898
-s507
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/main.o
-t2
-s0
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/ofxScratch.o
-t2
-s0
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/testApp.o
-t2
-s0
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build/Debug/emptyExample.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
-c000000004E8B58120000000000000113
-t1317754898
-s275
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/openFrameworks-Info.plist
-c000000004CE33EF60000000000000277
-t1289961206
-s631
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/main.cpp
-c000000004CE33EF6000000000000019E
-t1289961206
-s414
-i"ofMain.h"
-i"testApp.h"
-i"ofAppGlutWindow.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp
-c000000004E8B581100000000000004DB
-t1317754897
-s1243
-i"testApp.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h
-c000000004E8B57A200000000000001F0
-t1317754786
-s496
-i"ofxScratch.h"
-i"ofMain.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/fmodex/include/fmod.h
-c000000004CE33EF80000000000028E68
-t1289961208
-s167528
-i"fmod_codec.h"
-i"fmod_dsp.h"
-i"fmod_memoryinfo.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/fmodex/include/fmod_codec.h
-c000000004CE33EF8000000000000334A
-t1289961208
-s13130
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/fmodex/include/fmod_dsp.h
-c000000004CE33EF8000000000000892F
-t1289961208
-s35119
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/fmodex/include/fmod_memoryinfo.h
-c000000004CE33EF80000000000003C95
-t1289961208
-s15509
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/glut/lib/osx/GLUT.framework/Headers/glut.h
-c000000004CE33EF8000000000000578C
-t1289961208
-s22412
-i<windows.h>
-i<AvailabilityMacros.h>
-i<OpenGL/gl.h>
-i<OpenGL/glu.h>
-i<GL/gl.h>
-i<GL/glu.h>
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/app/ofAppBaseWindow.h
-c000000004CE33EF80000000000000446
-t1289961208
-s1094
-i"ofTypes.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/app/ofAppGlutWindow.h
-c000000004CE33EF8000000000000066B
-t1289961208
-s1643
-i"ofConstants.h"
-i"ofAppBaseWindow.h"
-i"glut.h"
-i<GLUT/glut.h>
-i<GL/glut.h>
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/app/ofAppRunner.h
-c000000004CE33EF8000000000000050D
-t1289961208
-s1293
-i"ofMain.h"
-i"ofBaseApp.h"
-i"ofAppBaseWindow.h"
-i"ofAppGlutWindow.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/app/ofBaseApp.h
-c000000004CE33EF80000000000000376
-t1289961208
-s886
-i"ofTypes.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/communication/ofArduino.h
-c000000004CE33EF80000000000003D3C
-t1289961208
-s15676
-i<list>
-i<vector>
-i<string>
-i<iostream>
-i"ofEvents.h"
-i"ofSerial.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/communication/ofSerial.h
-c000000004CE33EF80000000000000D2E
-t1289961208
-s3374
-i"ofConstants.h"
-i<termios.h>
-i<sys/ioctl.h>
-i<getopt.h>
-i<dirent.h>
-i<winbase.h>
-i<tchar.h>
-i<iostream>
-i<string.h>
-i<setupapi.h>
-i<regstr.h>
-i<winioctl.h>
-i<initguid.h>
-i<stdio.h>
-i<stdlib.h>
-i<string.h>
-i<fcntl.h>
-i<errno.h>
-i<ctype.h>
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/events/ofEventUtils.h
-c000000004CE33EF80000000000000AFA
-t1289961208
-s2810
-i"ofConstants.h"
-i"Poco/FIFOEvent.h"
-i"Poco/Delegate.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/events/ofEvents.h
-c000000004CE33EF8000000000000126C
-t1289961208
-s4716
-i"ofConstants.h"
-i"ofUtils.h"
-i"ofEventUtils.h"
-i"ofxEventUtils.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/graphics/ofGraphics.h
-c000000004CE33EF80000000000000D63
-t1289961208
-s3427
-i"ofConstants.h"
-i"ofTypes.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/graphics/ofImage.h
-c000000004CE33EF80000000000000D09
-t1289961208
-s3337
-i"ofConstants.h"
-i"ofTexture.h"
-i"ofGraphics.h"
-i"ofAppRunner.h"
-i"FreeImage.h"
-i"ofUtils.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/graphics/ofTexture.h
-c000000004CE33EF80000000000000C4B
-t1289961208
-s3147
-i"ofConstants.h"
-i"ofGraphics.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/graphics/ofTrueTypeFont.h
-c000000004CE33EF8000000000000087A
-t1289961208
-s2170
-i"ofConstants.h"
-i"ofGraphics.h"
-i"ofUtils.h"
-i"ofTypes.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/ofMain.h
-c000000004CE33EF80000000000000347
-t1289961208
-s839
-i"ofConstants.h"
-i"ofMath.h"
-i"ofUtils.h"
-i"ofTypes.h"
-i"ofSerial.h"
-i"ofArduino.h"
-i"ofTexture.h"
-i"ofTrueTypeFont.h"
-i"ofGraphics.h"
-i"ofImage.h"
-i"ofBaseApp.h"
-i"ofAppRunner.h"
-i"ofSoundStream.h"
-i"ofSoundPlayer.h"
-i"ofVideoGrabber.h"
-i"ofVideoPlayer.h"
-i"ofEvents.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/sound/ofSoundPlayer.h
-c000000004CE33EF800000000000006C3
-t1289961208
-s1731
-i"ofConstants.h"
-i"fmod.h"
-i"fmod_errors.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/sound/ofSoundStream.h
-c000000004CE33EF80000000000000254
-t1289961208
-s596
-i"ofConstants.h"
-i"ofBaseApp.h"
-i"ofEvents.h"
-i"ofMath.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/utils/ofConstants.h
-c000000004CE33EF80000000000002ACC
-t1289961208
-s10956
-i<TargetConditionals.h>
-i<windows.h>
-i"GLee.h"
-i"glu.h"
-i<unistd.h>
-i"GLee.h"
-i<OpenGL/glu.h>
-i<ApplicationServices/ApplicationServices.h>
-i<unistd.h>
-i"GLee.h"
-i<GL/glu.h>
-i<OpenGLES/ES1/gl.h>
-i<OpenGLES/ES1/glext.h>
-i<cstdlib>
-i<cstdio>
-i<cstdarg>
-i<cmath>
-i<ctime>
-i<cstdlib>
-i<string>
-i<iostream>
-i<vector>
-i<cstring>
-i<sstream>
-i<iomanip>
-i<fstream>
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/utils/ofMath.h
-c000000004CE33EF80000000000000A66
-t1289961208
-s2662
-i"ofConstants.h"
-i"ofTypes.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/utils/ofTypes.h
-c000000004CE33EF80000000000001D5F
-t1289961208
-s7519
-i"ofConstants.h"
-i"ofUtils.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/utils/ofUtils.h
-c000000004CE33EF800000000000005A4
-t1289961208
-s1444
-i"ofConstants.h"
-i<shellapi.h>
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/video/ofGstUtils.h
-c000000004CE33EF80000000000000B55
-t1289961208
-s2901
-i<gst/gst.h>
-i<pthread.h>
-i"ofConstants.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/video/ofQtUtils.h
-c000000004CE33EF800000000000006CF
-t1289961208
-s1743
-i"ofConstants.h"
-i"ofGraphics.h"
-i<QuickTime/QuickTime.h>
-i<CoreServices/CoreServices.h>
-i<ApplicationServices/ApplicationServices.h>
-i<QTML.h>
-i<FixMath.h>
-i<QuickTimeComponents.h>
-i<TextUtils.h>
-i<MediaHandlers.h>
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/video/ofVideoGrabber.h
-c000000004CE33EF80000000000000C9C
-t1289961208
-s3228
-i"ofConstants.h"
-i"ofTexture.h"
-i"ofGraphics.h"
-i"ofTypes.h"
-i"ofQtUtils.h"
-i"videoInput.h"
-i"ofUCUtils.h"
-i"ofGstUtils.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/video/ofVideoPlayer.h
-c000000004CE33EF80000000000000C33
-t1289961208
-s3123
-i"ofConstants.h"
-i"ofTexture.h"
-i"ofGstUtils.h"
-i"ofQtUtils.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a
-c000000004E4DB6290000000000610AE0
-t1313715753
-s6359776
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/AbstractDelegate.h
-c000000004CE33EF80000000000000B2E
-t1289961208
-s2862
-i"Poco/Foundation.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/AbstractEvent.h
-c000000004CE33EF80000000000002C6A
-t1289961208
-s11370
-i"Poco/Foundation.h"
-i"Poco/SingletonHolder.h"
-i"Poco/SharedPtr.h"
-i"Poco/ActiveResult.h"
-i"Poco/ActiveMethod.h"
-i"Poco/Mutex.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/ActiveMethod.h
-c000000004CE33EF80000000000001C64
-t1289961208
-s7268
-i"Poco/Foundation.h"
-i"Poco/ActiveResult.h"
-i"Poco/ActiveRunnable.h"
-i"Poco/ActiveStarter.h"
-i"Poco/AutoPtr.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/ActiveResult.h
-c000000004CE33EF80000000000002E66
-t1289961208
-s11878
-i"Poco/Foundation.h"
-i"Poco/Mutex.h"
-i"Poco/Event.h"
-i"Poco/RefCountedObject.h"
-i"Poco/Exception.h"
-i<algorithm>
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/ActiveRunnable.h
-c000000004CE33EF80000000000001785
-t1289961208
-s6021
-i"Poco/Foundation.h"
-i"Poco/ActiveResult.h"
-i"Poco/Runnable.h"
-i"Poco/RefCountedObject.h"
-i"Poco/AutoPtr.h"
-i"Poco/Exception.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/ActiveStarter.h
-c000000004CE33EF80000000000000927
-t1289961208
-s2343
-i"Poco/Foundation.h"
-i"Poco/ThreadPool.h"
-i"Poco/ActiveRunnable.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/AutoPtr.h
-c000000004CE33EF80000000000001E0C
-t1289961208
-s7692
-i"Poco/Foundation.h"
-i"Poco/Exception.h"
-i<algorithm>
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Bugcheck.h
-c000000004CE33EF800000000000012FE
-t1289961208
-s4862
-i"Poco/Foundation.h"
-i<string>
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/CompareFunctions.h
-c000000004CE33EF800000000000007EC
-t1289961208
-s2028
-i"Poco/Foundation.h"
-i<functional>
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Config.h
-c000000004CE33EF800000000000008B5
-t1289961208
-s2229
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Delegate.h
-c000000004CE33EF80000000000001802
-t1289961208
-s6146
-i"Poco/Foundation.h"
-i"Poco/AbstractDelegate.h"
-i"Poco/FunctionDelegate.h"
-i"Poco/Expire.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Event.h
-c000000004CE33EF80000000000000E21
-t1289961208
-s3617
-i"Poco/Foundation.h"
-i"Poco/Exception.h"
-i"Poco/Event_WIN32.h"
-i"Poco/Event_POSIX.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Event_POSIX.h
-c000000004CE33EF80000000000000A91
-t1289961208
-s2705
-i"Poco/Foundation.h"
-i"Poco/Exception.h"
-i<pthread.h>
-i<errno.h>
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Event_WIN32.h
-c000000004CE33EF80000000000000947
-t1289961208
-s2375
-i"Poco/Foundation.h"
-i"Poco/Exception.h"
-i"Poco/UnWindows.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Exception.h
-c000000004CE33EF800000000000026AC
-t1289961208
-s9900
-i"Poco/Foundation.h"
-i<stdexcept>
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Expire.h
-c000000004CE33EF80000000000000CF1
-t1289961208
-s3313
-i"Poco/Foundation.h"
-i"Poco/AbstractDelegate.h"
-i"Poco/Timestamp.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/FIFOEvent.h
-c000000004CE33EF80000000000000AD4
-t1289961208
-s2772
-i"Poco/AbstractEvent.h"
-i"Poco/FIFOStrategy.h"
-i"Poco/AbstractDelegate.h"
-i"Poco/CompareFunctions.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/FIFOStrategy.h
-c000000004CE33EF800000000000010F3
-t1289961208
-s4339
-i"Poco/NotificationStrategy.h"
-i<map>
-i<list>
-i<memory>
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Foundation.h
-c000000004CE33EF80000000000001023
-t1289961208
-s4131
-i"Poco/Config.h"
-i"Poco/Platform.h"
-i"Poco/Platform_WIN32.h"
-i"Poco/Platform_VMS.h"
-i"Poco/Platform_POSIX.h"
-i"Poco/Bugcheck.h"
-i"Poco/Types.h"
-i<string>
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/FunctionDelegate.h
-c000000004CE33EF800000000000013CA
-t1289961208
-s5066
-i"Poco/Foundation.h"
-i"Poco/AbstractDelegate.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Mutex.h
-c000000004CE33EF80000000000001A61
-t1289961208
-s6753
-i"Poco/Foundation.h"
-i"Poco/Exception.h"
-i"Poco/ScopedLock.h"
-i"Poco/Mutex_WIN32.h"
-i"Poco/Mutex_POSIX.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Mutex_POSIX.h
-c000000004CE33EF80000000000000AC3
-t1289961208
-s2755
-i"Poco/Foundation.h"
-i"Poco/Exception.h"
-i<pthread.h>
-i<errno.h>
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Mutex_WIN32.h
-c000000004CE33EF80000000000000A07
-t1289961208
-s2567
-i"Poco/Foundation.h"
-i"Poco/Exception.h"
-i"Poco/UnWindows.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/NotificationStrategy.h
-c000000004CE33EF80000000000000A37
-t1289961208
-s2615
-i"Poco/Foundation.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Platform.h
-c000000004CE33EF80000000000001A3A
-t1289961208
-s6714
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Platform_POSIX.h
-c000000004CE33EF80000000000000843
-t1289961208
-s2115
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Platform_VMS.h
-c000000004CE33EF80000000000000BAA
-t1289961208
-s2986
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Platform_WIN32.h
-c000000004CE33EF80000000000000D4D
-t1289961208
-s3405
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/RefCountedObject.h
-c000000004CE33EF80000000000000B10
-t1289961208
-s2832
-i"Poco/Foundation.h"
-i"Poco/Mutex.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Runnable.h
-c000000004CE33EF80000000000000861
-t1289961208
-s2145
-i"Poco/Foundation.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/ScopedLock.h
-c000000004CE33EF800000000000008EB
-t1289961208
-s2283
-i"Poco/Foundation.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/SharedPtr.h
-c000000004CE33EF800000000000021DE
-t1289961208
-s8670
-i"Poco/Foundation.h"
-i"Poco/Exception.h"
-i"Poco/Mutex.h"
-i<algorithm>
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/SignalHandler.h
-c000000004CE33EF800000000000011EB
-t1289961208
-s4587
-i"Poco/Foundation.h"
-i<vector>
-i<setjmp.h>
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/SingletonHolder.h
-c000000004CE33EF80000000000000A64
-t1289961208
-s2660
-i"Poco/Foundation.h"
-i"Poco/Mutex.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Thread.h
-c000000004CE33EF80000000000001C3A
-t1289961208
-s7226
-i"Poco/Foundation.h"
-i"Poco/Mutex.h"
-i"Poco/Thread_WIN32.h"
-i"Poco/Thread_POSIX.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/ThreadPool.h
-c000000004CE33EF80000000000001849
-t1289961208
-s6217
-i"Poco/Foundation.h"
-i"Poco/Thread.h"
-i"Poco/Mutex.h"
-i<vector>
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Thread_POSIX.h
-c000000004CE33EF800000000000012A8
-t1289961208
-s4776
-i"Poco/Foundation.h"
-i"Poco/Runnable.h"
-i"Poco/SignalHandler.h"
-i"Poco/Event.h"
-i"Poco/RefCountedObject.h"
-i"Poco/AutoPtr.h"
-i<pthread.h>
-i<sys/select.h>
-i<errno.h>
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Thread_WIN32.h
-c000000004CE33EF8000000000000106C
-t1289961208
-s4204
-i"Poco/Foundation.h"
-i"Poco/Runnable.h"
-i"Poco/UnWindows.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Timestamp.h
-c000000004CE33EFA00000000000019A7
-t1289961210
-s6567
-i"Poco/Foundation.h"
-i<ctime>
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Types.h
-c000000004CE33EFA0000000000001910
-t1289961210
-s6416
-i"Poco/Foundation.h"
-
-N/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/UnWindows.h
-c000000004CE33EFA0000000000000FD1
-t1289961210
-s4049
-i<windows.h>
-
-N/usr/include/AvailabilityMacros.h
-c000000004A11A9B30000000000006724
-t1242671539
-s26404
-
-N/usr/include/TargetConditionals.h
-c000000004A11A9B300000000000031E9
-t1242671539
-s12777
-
-N/usr/include/ctype.h
-c000000004A5C14A60000000000002C18
-t1247548582
-s11288
-
-N/usr/include/dirent.h
-c000000004A5C14A700000000000016D3
-t1247548583
-s5843
-
-N/usr/include/errno.h
-c000000004A5C14A600000000000003EB
-t1247548582
-s1003
-
-N/usr/include/fcntl.h
-c000000004A5C14A600000000000003EA
-t1247548582
-s1002
-
-N/usr/include/getopt.h
-c000000004A5C14A60000000000000CBC
-t1247548582
-s3260
-
-N/usr/include/inttypes.h
-c000000004A5C14A600000000000027D1
-t1247548582
-s10193
-
-N/usr/include/pthread.h
-c000000004A5C14A700000000000038F0
-t1247548583
-s14576
-
-N/usr/include/setjmp.h
-c000000004A5C14A60000000000000438
-t1247548582
-s1080
-
-N/usr/include/stdio.h
-c000000004A5C14A70000000000004174
-t1247548583
-s16756
-
-N/usr/include/stdlib.h
-c000000004A5C14A70000000000002DF5
-t1247548583
-s11765
-
-N/usr/include/string.h
-c000000004A5C14A70000000000001731
-t1247548583
-s5937
-
-N/usr/include/sys/_types.h
-c000000004A73D6560000000000001845
-t1249105494
-s6213
-
-N/usr/include/sys/ioctl.h
-c000000004A73D651000000000000116C
-t1249105489
-s4460
-
-N/usr/include/sys/select.h
-c000000004A73D65400000000000016A2
-t1249105492
-s5794
-
-N/usr/include/termios.h
-c000000004A5C14A600000000000004D4
-t1247548582
-s1236
-
-N/usr/include/unistd.h
-c000000004A5C14A7000000000000563E
-t1247548583
-s22078
-
-N/usr/include/wchar.h
-c000000004A5C14A700000000000025DA
-t1247548583
-s9690
-
-N/var/folders/-+/-+cpBmMNHfinPIZKUpFu1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-gbstarlscdzpjgfhfxnoajicbvlp/Carbon.h.gch
-t1317754904
-s53737264
-
-NopenFrameworks-Info.plist
-c000000004CE33EF60000000000000277
-t1289961206
-s631
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies339447698#339447698#0(127"[WARN]Warning: The ファイルをコピー build phase contains this target's Info.plist file 'openFrameworks-Info.plist'.1(22@120"Warning: The ファイルをコピー build phase contains this target's Info.plist file 'openFrameworks-Info.plist'.339447698#18446744073709551615#0#0(1@0"0(0#1#0"19422293091680368#0"0#
-
-CCompileC build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/main.o /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/main.cpp normal i386 c++ com.apple.compilers.gcc.4_2
-s339447704.561063
-e339447705.911569
-r0
-xCompileC
-xbuild/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/main.o
-x/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/main.cpp
-xnormal
-xi386
-xc++
-xcom.apple.compilers.gcc.4_2
-oIn file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h:4,
-o                 from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/main.cpp:2:
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:13:24: error: ofxNetwork.h: No such file or directory
-oIn file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h:4,
-o                 from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/main.cpp:2:
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:15: error: 'ofxScratch' has not been declared
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:16: error: 'ofxScratch' has not been declared
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:17: error: 'ofxScratch' has not been declared
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:18: error: 'ofxScratch' has not been declared
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:19: error: 'ofxScratch' has not been declared
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:21: error: 'ofxTCPClient' does not name a type
-oIn file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/main.cpp:2:
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h:21: error: 'ofxScratch' does not name a type
-lSLF07#2@109"Compile /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/main.cpp339447704#339447705#0(2047"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h:4,                 from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/main.cpp:2:/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:13:24: error: ofxNetwork.h: No such file or directoryIn file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h:4,                 from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/main.cpp:2:/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:15: error: 'ofxScratch' has not been declared/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:16: error: 'ofxScratch' has not been declared/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:17: error: 'ofxScratch' has not been declared/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:18: error: 'ofxScratch' has not been declared/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:19: error: 'ofxScratch' has not been declared/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:21: error: 'ofxTCPClient' does not name a typeIn file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/main.cpp:2:/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h:21: error: 'ofxScratch' does not name a type8(4@39"OfxNetwork.h: No such file or directory339447704#255#187#3(7@123"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/main.cpp339447704#18446744073709551615#0#0(6@101"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/main.cpp311654006#2#0#2#0#0"0(7@124"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447704#18446744073709551615#0#0(6@102"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447586#4#0#4#0#0"0(13@175"OfxNetwork.h: No such file or directory in /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339447704#18446744073709551615#0#0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#13#0#13#0#0"0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#13#0#13#0#28"*: No such file or directory0(4@34"'ofxScratch' has not been declared339447705#697#179#3(7@123"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/main.cpp339447705#18446744073709551615#0#0(6@101"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/main.cpp311654006#2#0#2#0#0"0(7@124"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447705#18446744073709551615#0#0(6@102"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447586#4#0#4#0#0"0(13@170"'ofxScratch' has not been declared in /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339447705#18446744073709551615#0#0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#15#0#15#0#0"0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#15#0#15#0#25"'*' has not been declared0(4@34"'ofxScratch' has not been declared339447705#876#179#3(7@123"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/main.cpp339447705#18446744073709551615#0#0(6@101"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/main.cpp311654006#2#0#2#0#0"0(7@124"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447705#18446744073709551615#0#0(6@102"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447586#4#0#4#0#0"0(13@170"'ofxScratch' has not been declared in /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339447705#18446744073709551615#0#0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#16#0#16#0#0"0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#16#0#16#0#25"'*' has not been declared0(4@34"'ofxScratch' has not been declared339447705#1055#179#3(7@123"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/main.cpp339447705#18446744073709551615#0#0(6@101"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/main.cpp311654006#2#0#2#0#0"0(7@124"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447705#18446744073709551615#0#0(6@102"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447586#4#0#4#0#0"0(13@170"'ofxScratch' has not been declared in /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339447705#18446744073709551615#0#0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#17#0#17#0#0"0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#17#0#17#0#25"'*' has not been declared0(4@34"'ofxScratch' has not been declared339447705#1234#179#3(7@123"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/main.cpp339447705#18446744073709551615#0#0(6@101"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/main.cpp311654006#2#0#2#0#0"0(7@124"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447705#18446744073709551615#0#0(6@102"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447586#4#0#4#0#0"0(13@170"'ofxScratch' has not been declared in /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339447705#18446744073709551615#0#0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#18#0#18#0#0"0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#18#0#18#0#25"'*' has not been declared0(4@34"'ofxScratch' has not been declared339447705#1413#179#3(7@123"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/main.cpp339447705#18446744073709551615#0#0(6@101"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/main.cpp311654006#2#0#2#0#0"0(7@124"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447705#18446744073709551615#0#0(6@102"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447586#4#0#4#0#0"0(13@170"'ofxScratch' has not been declared in /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339447705#18446744073709551615#0#0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#19#0#19#0#0"0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#19#0#19#0#25"'*' has not been declared0(4@35"'ofxTCPClient' does not name a type339447705#1592#180#3(7@123"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/main.cpp339447705#18446744073709551615#0#0(6@101"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/main.cpp311654006#2#0#2#0#0"0(7@124"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447705#18446744073709551615#0#0(6@102"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447586#4#0#4#0#0"0(13@171"'ofxTCPClient' does not name a type in /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339447705#18446744073709551615#0#0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#21#0#21#0#0"0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#21#0#21#0#24"'*' does not name a type0(4@33"'ofxScratch' does not name a type339447705#1899#148#2(7@123"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/main.cpp339447705#18446744073709551615#0#0(6@101"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/main.cpp311654006#2#0#2#0#0"0(13@139"'ofxScratch' does not name a type in /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447705#18446744073709551615#0#0(6@102"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447586#21#0#21#0#0"0(6@102"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447586#21#0#21#0#24"'*' does not name a type0(0#0#101"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/main.cpp8623294752#2036"    cd /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build/Debug/emptyExample.build/emptyExampleDebug.hmap -F/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/bin -F/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../libs/glut/lib/osx -I/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/bin/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/poco/include -I../../../addons -I/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build/Debug/emptyExample.build/DerivedSources/i386 -I/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build/Debug/emptyExample.build/DerivedSources -D__MACOSX_CORE__ -lpthread -include /var/folders/-+/-+cpBmMNHfinPIZKUpFu1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-gbstarlscdzpjgfhfxnoajicbvlp/Carbon.h -c /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/main.cpp -o /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/main.o1#
-
-CCompileC build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/ofxScratch.o /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp normal i386 c++ com.apple.compilers.gcc.4_2
-s339447704.563915
-e339447704.663260
-r0
-xCompileC
-xbuild/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/ofxScratch.o
-x/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp
-xnormal
-xi386
-xc++
-xcom.apple.compilers.gcc.4_2
-oIn file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:10:
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:13:24: error: ofxNetwork.h: No such file or directory
-oIn file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:10:
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:15: error: 'ofxScratch' has not been declared
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:16: error: 'ofxScratch' has not been declared
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:17: error: 'ofxScratch' has not been declared
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:17: error: variable or field 'sensorUpdate' declared void
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:17: error: 'string' was not declared in this scope
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:17: error: 'string' was not declared in this scope
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:18: error: 'ofxScratch' has not been declared
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:18: error: variable or field 'sendBroadcast' declared void
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:18: error: 'string' was not declared in this scope
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:19: error: 'ofxScratch' has not been declared
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:19: error: 'string' was not declared in this scope
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:21: error: 'ofxTCPClient' does not name a type
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:22: error: 'string' does not name a type
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:12: error: 'ofxScratch' has not been declared
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp: In function 'void setup()':
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:13: error: 'msgTx' was not declared in this scope
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:14: error: 'tcpClient' was not declared in this scope
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp: At global scope:
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:20: error: 'ofxScratch' has not been declared
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp: In function 'void update()':
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:22: error: 'msgTx' was not declared in this scope
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:23: error: 'msgRx' was not declared in this scope
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:24: error: 'string' was not declared in this scope
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:24: error: expected `;' before 'str'
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:25: error: 'str' was not declared in this scope
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:29: error: 'ofGetElapsedTimeMills' was not declared in this scope
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:32: error: 'tcpClient' was not declared in this scope
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:33: error: 'ofGetElapsedTimeMillis' was not declared in this scope
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp: At global scope:
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:38: error: 'ofxScratch' has not been declared
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:38: error: variable or field 'sensorUpdate' declared void
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:38: error: 'string' was not declared in this scope
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:38: error: 'string' was not declared in this scope
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:43: error: 'ofxScratch' has not been declared
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:43: error: variable or field 'sendBroadcast' declared void
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:43: error: 'string' was not declared in this scope
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:48: error: 'ofxScratch' has not been declared
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:48: error: redefinition of 'bool broadcastScratch'
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:19: error: 'bool broadcastScratch' previously defined here
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:48: error: 'string' was not declared in this scope
-lSLF07#2@142"Compile /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447704#339447704#0(7803"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:10:/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:13:24: error: ofxNetwork.h: No such file or directoryIn file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:10:/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:15: error: 'ofxScratch' has not been declared/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:16: error: 'ofxScratch' has not been declared/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:17: error: 'ofxScratch' has not been declared/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:17: error: variable or field 'sensorUpdate' declared void/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:17: error: 'string' was not declared in this scope/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:17: error: 'string' was not declared in this scope/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:18: error: 'ofxScratch' has not been declared/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:18: error: variable or field 'sendBroadcast' declared void/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:18: error: 'string' was not declared in this scope/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:19: error: 'ofxScratch' has not been declared/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:19: error: 'string' was not declared in this scope/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:21: error: 'ofxTCPClient' does not name a type/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:22: error: 'string' does not name a type/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:12: error: 'ofxScratch' has not been declared/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp: In function 'void setup()':/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:13: error: 'msgTx' was not declared in this scope/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:14: error: 'tcpClient' was not declared in this scope/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp: At global scope:/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:20: error: 'ofxScratch' has not been declared/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp: In function 'void update()':/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:22: error: 'msgTx' was not declared in this scope/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:23: error: 'msgRx' was not declared in this scope/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:24: error: 'string' was not declared in this scope/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:24: error: expected `;' before 'str'/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:25: error: 'str' was not declared in this scope/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:29: error: 'ofGetElapsedTimeMills' was not declared in this scope/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:32: error: 'tcpClient' was not declared in this scope/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:33: error: 'ofGetElapsedTimeMillis' was not declared in this scope/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp: At global scope:/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:38: error: 'ofxScratch' has not been declared/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:38: error: variable or field 'sensorUpdate' declared void/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:38: error: 'string' was not declared in this scope/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:38: error: 'string' was not declared in this scope/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:43: error: 'ofxScratch' has not been declared/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:43: error: variable or field 'sendBroadcast' declared void/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:43: error: 'string' was not declared in this scope/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:48: error: 'ofxScratch' has not been declared/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:48: error: redefinition of 'bool broadcastScratch'/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:19: error: 'bool broadcastScratch' previously defined here/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp:48: error: 'string' was not declared in this scope39(4@39"OfxNetwork.h: No such file or directory339447704#161#187#2(7@156"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447704#18446744073709551615#0#0(6@134"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447496#10#0#10#0#0"0(13@175"OfxNetwork.h: No such file or directory in /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339447704#18446744073709551615#0#0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#13#0#13#0#0"0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#13#0#13#0#28"*: No such file or directory0(4@34"'ofxScratch' has not been declared339447704#509#179#2(7@156"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447704#18446744073709551615#0#0(6@134"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447496#10#0#10#0#0"0(13@170"'ofxScratch' has not been declared in /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339447704#18446744073709551615#0#0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#15#0#15#0#0"0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#15#0#15#0#25"'*' has not been declared0(4@34"'ofxScratch' has not been declared339447704#688#179#2(7@156"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447704#18446744073709551615#0#0(6@134"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447496#10#0#10#0#0"0(13@170"'ofxScratch' has not been declared in /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339447704#18446744073709551615#0#0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#16#0#16#0#0"0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#16#0#16#0#25"'*' has not been declared0(4@34"'ofxScratch' has not been declared339447704#867#179#2(7@156"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447704#18446744073709551615#0#0(6@134"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447496#10#0#10#0#0"0(13@170"'ofxScratch' has not been declared in /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339447704#18446744073709551615#0#0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#17#0#17#0#0"0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#17#0#17#0#25"'*' has not been declared0(4@46"Variable or field 'sensorUpdate' declared void339447704#1046#191#2(7@156"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447704#18446744073709551615#0#0(6@134"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447496#10#0#10#0#0"0(13@182"Variable or field 'sensorUpdate' declared void in /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339447704#18446744073709551615#0#0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#17#0#17#0#0"0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#17#0#17#0#0"0(4@39"'string' was not declared in this scope339447704#1237#184#2(7@156"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447704#18446744073709551615#0#0(6@134"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447496#10#0#10#0#0"0(13@175"'string' was not declared in this scope in /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339447704#18446744073709551615#0#0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#17#0#17#0#0"0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#17#0#17#0#34"'*' was not declared in this scope0(4@39"'string' was not declared in this scope339447704#1421#184#2(7@156"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447704#18446744073709551615#0#0(6@134"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447496#10#0#10#0#0"0(13@175"'string' was not declared in this scope in /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339447704#18446744073709551615#0#0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#17#0#17#0#0"0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#17#0#17#0#34"'*' was not declared in this scope0(4@34"'ofxScratch' has not been declared339447704#1605#179#2(7@156"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447704#18446744073709551615#0#0(6@134"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447496#10#0#10#0#0"0(13@170"'ofxScratch' has not been declared in /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339447704#18446744073709551615#0#0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#18#0#18#0#0"0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#18#0#18#0#25"'*' has not been declared0(4@47"Variable or field 'sendBroadcast' declared void339447704#1784#192#2(7@156"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447704#18446744073709551615#0#0(6@134"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447496#10#0#10#0#0"0(13@183"Variable or field 'sendBroadcast' declared void in /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339447704#18446744073709551615#0#0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#18#0#18#0#0"0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#18#0#18#0#0"0(4@39"'string' was not declared in this scope339447704#1976#184#2(7@156"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447704#18446744073709551615#0#0(6@134"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447496#10#0#10#0#0"0(13@175"'string' was not declared in this scope in /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339447704#18446744073709551615#0#0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#18#0#18#0#0"0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#18#0#18#0#34"'*' was not declared in this scope0(4@34"'ofxScratch' has not been declared339447704#2160#179#2(7@156"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447704#18446744073709551615#0#0(6@134"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447496#10#0#10#0#0"0(13@170"'ofxScratch' has not been declared in /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339447704#18446744073709551615#0#0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#19#0#19#0#0"0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#19#0#19#0#25"'*' has not been declared0(4@39"'string' was not declared in this scope339447704#2339#184#2(7@156"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447704#18446744073709551615#0#0(6@134"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447496#10#0#10#0#0"0(13@175"'string' was not declared in this scope in /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339447704#18446744073709551615#0#0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#19#0#19#0#0"0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#19#0#19#0#34"'*' was not declared in this scope0(4@35"'ofxTCPClient' does not name a type339447704#2523#180#2(7@156"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447704#18446744073709551615#0#0(6@134"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447496#10#0#10#0#0"0(13@171"'ofxTCPClient' does not name a type in /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339447704#18446744073709551615#0#0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#21#0#21#0#0"0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#21#0#21#0#24"'*' does not name a type0(4@29"'string' does not name a type339447704#2703#174#2(7@156"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447704#18446744073709551615#0#0(6@134"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447496#10#0#10#0#0"0(13@165"'string' does not name a type in /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339447704#18446744073709551615#0#0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#22#0#22#0#0"0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#22#0#22#0#24"'*' does not name a type0(4@34"'ofxScratch' has not been declared339447704#2877#181#0(6@134"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447496#12#0#12#0#25"'*' has not been declared0(4@38"'msgTx' was not declared in this scope339447704#3222#185#0(6@134"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447496#13#0#13#0#34"'*' was not declared in this scope0(4@42"'tcpClient' was not declared in this scope339447704#3407#189#0(6@134"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447496#14#0#14#0#34"'*' was not declared in this scope0(23@16"At global scope:339447704#3596#153#0(6@134"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447496#0#0#0#0#0"0(4@34"'ofxScratch' has not been declared339447704#3749#181#0(6@134"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447496#20#0#20#0#25"'*' has not been declared0(4@38"'msgTx' was not declared in this scope339447704#4095#185#0(6@134"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447496#22#0#22#0#34"'*' was not declared in this scope0(4@38"'msgRx' was not declared in this scope339447704#4280#185#0(6@134"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447496#23#0#23#0#34"'*' was not declared in this scope0(4@39"'string' was not declared in this scope339447704#4465#186#0(6@134"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447496#24#0#24#0#34"'*' was not declared in this scope0(4@25"Expected `;' before 'str'339447704#4651#172#0(6@134"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447496#24#0#24#0#19"expected * before *0(4@36"'str' was not declared in this scope339447704#4823#183#0(6@134"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447496#25#0#25#0#34"'*' was not declared in this scope0(4@54"'ofGetElapsedTimeMills' was not declared in this scope339447704#5006#201#0(6@134"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447496#29#0#29#0#34"'*' was not declared in this scope0(4@42"'tcpClient' was not declared in this scope339447704#5207#189#0(6@134"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447496#32#0#32#0#34"'*' was not declared in this scope0(4@55"'ofGetElapsedTimeMillis' was not declared in this scope339447704#5396#202#0(6@134"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447496#33#0#33#0#34"'*' was not declared in this scope0(23@16"At global scope:339447704#5598#153#0(6@134"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447496#0#0#0#0#0"0(4@34"'ofxScratch' has not been declared339447704#5751#181#0(6@134"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447496#38#0#38#0#25"'*' has not been declared0(4@46"Variable or field 'sensorUpdate' declared void339447704#5932#193#0(6@134"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447496#38#0#38#0#0"0(4@39"'string' was not declared in this scope339447704#6125#186#0(6@134"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447496#38#0#38#0#34"'*' was not declared in this scope0(4@39"'string' was not declared in this scope339447704#6311#186#0(6@134"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447496#38#0#38#0#34"'*' was not declared in this scope0(4@34"'ofxScratch' has not been declared339447704#6497#181#0(6@134"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447496#43#0#43#0#25"'*' has not been declared0(4@47"Variable or field 'sendBroadcast' declared void339447704#6678#194#0(6@134"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447496#43#0#43#0#0"0(4@39"'string' was not declared in this scope339447704#6872#186#0(6@134"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447496#43#0#43#0#34"'*' was not declared in this scope0(4@34"'ofxScratch' has not been declared339447704#7058#181#0(6@134"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447496#48#0#48#0#25"'*' has not been declared0(4@39"Redefinition of 'bool broadcastScratch'339447704#7239#186#0(6@134"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447496#48#0#48#0#19"redefinition of '*'0(13@47"'bool broadcastScratch' previously defined here339447704#7425#192#0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#19#0#19#0#0"0(4@39"'string' was not declared in this scope339447704#7617#186#0(6@134"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp339447496#48#0#48#0#34"'*' was not declared in this scope0(0#0#134"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp8617853248#2075"    cd /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build/Debug/emptyExample.build/emptyExampleDebug.hmap -F/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/bin -F/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../libs/glut/lib/osx -I/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/bin/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/poco/include -I../../../addons -I/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build/Debug/emptyExample.build/DerivedSources/i386 -I/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build/Debug/emptyExample.build/DerivedSources -D__MACOSX_CORE__ -lpthread -include /var/folders/-+/-+cpBmMNHfinPIZKUpFu1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-gbstarlscdzpjgfhfxnoajicbvlp/Carbon.h -c /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.cpp -o /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/ofxScratch.o1#
-
-CCompileC build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/testApp.o /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp normal i386 c++ com.apple.compilers.gcc.4_2
-s339447704.562558
-e339447705.708841
-r0
-xCompileC
-xbuild/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/testApp.o
-x/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp
-xnormal
-xi386
-xc++
-xcom.apple.compilers.gcc.4_2
-oIn file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h:4,
-o                 from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp:1:
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:13:24: error: ofxNetwork.h: No such file or directory
-oIn file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h:4,
-o                 from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp:1:
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:15: error: 'ofxScratch' has not been declared
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:16: error: 'ofxScratch' has not been declared
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:17: error: 'ofxScratch' has not been declared
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:17: error: variable or field 'sensorUpdate' declared void
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:17: error: 'string' was not declared in this scope
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:17: error: 'string' was not declared in this scope
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:18: error: 'ofxScratch' has not been declared
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:18: error: variable or field 'sendBroadcast' declared void
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:18: error: 'string' was not declared in this scope
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:19: error: 'ofxScratch' has not been declared
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:19: error: 'string' was not declared in this scope
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:21: error: 'ofxTCPClient' does not name a type
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:22: error: 'string' does not name a type
-oIn file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp:1:
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h:21: error: 'ofxScratch' does not name a type
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp: In member function 'virtual void testApp::setup()':
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp:5: error: 'scratchClient' was not declared in this scope
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp: In member function 'virtual void testApp::update()':
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp:10: error: 'scratchClient' was not declared in this scope
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp:12: error: 'i' was not declared in this scope
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp:14: error: 'i' was not declared in this scope
-o/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp:15: error: expected `;' before 'scratchClient'
-lSLF07#2@112"Compile /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp339447704#339447705#0(4445"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h:4,                 from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp:1:/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:13:24: error: ofxNetwork.h: No such file or directoryIn file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h:4,                 from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp:1:/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:15: error: 'ofxScratch' has not been declared/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:16: error: 'ofxScratch' has not been declared/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:17: error: 'ofxScratch' has not been declared/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:17: error: variable or field 'sensorUpdate' declared void/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:17: error: 'string' was not declared in this scope/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:17: error: 'string' was not declared in this scope/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:18: error: 'ofxScratch' has not been declared/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:18: error: variable or field 'sendBroadcast' declared void/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:18: error: 'string' was not declared in this scope/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:19: error: 'ofxScratch' has not been declared/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:19: error: 'string' was not declared in this scope/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:21: error: 'ofxTCPClient' does not name a type/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h:22: error: 'string' does not name a typeIn file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp:1:/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h:21: error: 'ofxScratch' does not name a type/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp: In member function 'virtual void testApp::setup()':/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp:5: error: 'scratchClient' was not declared in this scope/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp: In member function 'virtual void testApp::update()':/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp:10: error: 'scratchClient' was not declared in this scope/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp:12: error: 'i' was not declared in this scope/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp:14: error: 'i' was not declared in this scope/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp:15: error: expected `;' before 'scratchClient'20(4@39"OfxNetwork.h: No such file or directory339447704#258#187#3(7@126"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp339447704#18446744073709551615#0#0(6@104"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp339447697#1#0#1#0#0"0(7@124"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447704#18446744073709551615#0#0(6@102"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447586#4#0#4#0#0"0(13@175"OfxNetwork.h: No such file or directory in /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339447704#18446744073709551615#0#0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#13#0#13#0#0"0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#13#0#13#0#28"*: No such file or directory0(4@34"'ofxScratch' has not been declared339447704#703#179#3(7@126"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp339447704#18446744073709551615#0#0(6@104"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp339447697#1#0#1#0#0"0(7@124"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447704#18446744073709551615#0#0(6@102"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447586#4#0#4#0#0"0(13@170"'ofxScratch' has not been declared in /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339447704#18446744073709551615#0#0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#15#0#15#0#0"0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#15#0#15#0#25"'*' has not been declared0(4@34"'ofxScratch' has not been declared339447704#882#179#3(7@126"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp339447704#18446744073709551615#0#0(6@104"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp339447697#1#0#1#0#0"0(7@124"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447704#18446744073709551615#0#0(6@102"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447586#4#0#4#0#0"0(13@170"'ofxScratch' has not been declared in /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339447704#18446744073709551615#0#0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#16#0#16#0#0"0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#16#0#16#0#25"'*' has not been declared0(4@34"'ofxScratch' has not been declared339447704#1061#179#3(7@126"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp339447704#18446744073709551615#0#0(6@104"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp339447697#1#0#1#0#0"0(7@124"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447704#18446744073709551615#0#0(6@102"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447586#4#0#4#0#0"0(13@170"'ofxScratch' has not been declared in /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339447704#18446744073709551615#0#0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#17#0#17#0#0"0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#17#0#17#0#25"'*' has not been declared0(4@46"Variable or field 'sensorUpdate' declared void339447704#1240#191#3(7@126"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp339447704#18446744073709551615#0#0(6@104"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp339447697#1#0#1#0#0"0(7@124"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447704#18446744073709551615#0#0(6@102"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447586#4#0#4#0#0"0(13@182"Variable or field 'sensorUpdate' declared void in /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339447704#18446744073709551615#0#0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#17#0#17#0#0"0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#17#0#17#0#0"0(4@39"'string' was not declared in this scope339447704#1431#184#3(7@126"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp339447704#18446744073709551615#0#0(6@104"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp339447697#1#0#1#0#0"0(7@124"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447704#18446744073709551615#0#0(6@102"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447586#4#0#4#0#0"0(13@175"'string' was not declared in this scope in /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339447704#18446744073709551615#0#0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#17#0#17#0#0"0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#17#0#17#0#34"'*' was not declared in this scope0(4@39"'string' was not declared in this scope339447704#1615#184#3(7@126"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp339447704#18446744073709551615#0#0(6@104"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp339447697#1#0#1#0#0"0(7@124"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447704#18446744073709551615#0#0(6@102"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447586#4#0#4#0#0"0(13@175"'string' was not declared in this scope in /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339447704#18446744073709551615#0#0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#17#0#17#0#0"0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#17#0#17#0#34"'*' was not declared in this scope0(4@34"'ofxScratch' has not been declared339447704#1799#179#3(7@126"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp339447704#18446744073709551615#0#0(6@104"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp339447697#1#0#1#0#0"0(7@124"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447704#18446744073709551615#0#0(6@102"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447586#4#0#4#0#0"0(13@170"'ofxScratch' has not been declared in /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339447704#18446744073709551615#0#0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#18#0#18#0#0"0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#18#0#18#0#25"'*' has not been declared0(4@47"Variable or field 'sendBroadcast' declared void339447704#1978#192#3(7@126"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp339447704#18446744073709551615#0#0(6@104"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp339447697#1#0#1#0#0"0(7@124"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447704#18446744073709551615#0#0(6@102"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447586#4#0#4#0#0"0(13@183"Variable or field 'sendBroadcast' declared void in /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339447704#18446744073709551615#0#0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#18#0#18#0#0"0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#18#0#18#0#0"0(4@39"'string' was not declared in this scope339447704#2170#184#3(7@126"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp339447704#18446744073709551615#0#0(6@104"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp339447697#1#0#1#0#0"0(7@124"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447704#18446744073709551615#0#0(6@102"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447586#4#0#4#0#0"0(13@175"'string' was not declared in this scope in /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339447704#18446744073709551615#0#0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#18#0#18#0#0"0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#18#0#18#0#34"'*' was not declared in this scope0(4@34"'ofxScratch' has not been declared339447704#2354#179#3(7@126"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp339447704#18446744073709551615#0#0(6@104"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp339447697#1#0#1#0#0"0(7@124"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447704#18446744073709551615#0#0(6@102"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447586#4#0#4#0#0"0(13@170"'ofxScratch' has not been declared in /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339447704#18446744073709551615#0#0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#19#0#19#0#0"0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#19#0#19#0#25"'*' has not been declared0(4@39"'string' was not declared in this scope339447704#2533#184#3(7@126"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp339447704#18446744073709551615#0#0(6@104"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp339447697#1#0#1#0#0"0(7@124"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447704#18446744073709551615#0#0(6@102"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447586#4#0#4#0#0"0(13@175"'string' was not declared in this scope in /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339447704#18446744073709551615#0#0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#19#0#19#0#0"0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#19#0#19#0#34"'*' was not declared in this scope0(4@35"'ofxTCPClient' does not name a type339447704#2717#180#3(7@126"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp339447704#18446744073709551615#0#0(6@104"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp339447697#1#0#1#0#0"0(7@124"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447704#18446744073709551615#0#0(6@102"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447586#4#0#4#0#0"0(13@171"'ofxTCPClient' does not name a type in /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339447704#18446744073709551615#0#0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#21#0#21#0#0"0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#21#0#21#0#24"'*' does not name a type0(4@29"'string' does not name a type339447704#2897#174#3(7@126"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp339447704#18446744073709551615#0#0(6@104"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp339447697#1#0#1#0#0"0(7@124"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447704#18446744073709551615#0#0(6@102"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447586#4#0#4#0#0"0(13@165"'string' does not name a type in /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339447704#18446744073709551615#0#0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#22#0#22#0#0"0(6@132"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../addons/ofxScratch/src/ofxScratch.h339440697#22#0#22#0#24"'*' does not name a type0(4@33"'ofxScratch' does not name a type339447705#3201#148#2(7@126"In file included from /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp339447705#18446744073709551615#0#0(6@104"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp339447697#1#0#1#0#0"0(13@139"'ofxScratch' does not name a type in /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447705#18446744073709551615#0#0(6@102"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447586#21#0#21#0#0"0(6@102"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.h339447586#21#0#21#0#24"'*' does not name a type0(4@46"'scratchClient' was not declared in this scope339447705#3507#162#0(6@104"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp339447697#5#0#5#0#34"'*' was not declared in this scope0(4@46"'scratchClient' was not declared in this scope339447705#3828#163#0(6@104"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp339447697#10#0#10#0#34"'*' was not declared in this scope0(4@34"'i' was not declared in this scope339447705#3991#151#0(6@104"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp339447697#12#0#12#0#34"'*' was not declared in this scope0(4@34"'i' was not declared in this scope339447705#4142#151#0(6@104"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp339447697#14#0#14#0#34"'*' was not declared in this scope0(4@35"Expected `;' before 'scratchClient'339447705#4293#152#0(6@104"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp339447697#15#0#15#0#19"expected * before *0(0#0#104"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp8622925600#2042"    cd /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build/Debug/emptyExample.build/emptyExampleDebug.hmap -F/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/bin -F/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../libs/glut/lib/osx -I/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/bin/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/poco/include -I../../../addons -I/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build/Debug/emptyExample.build/DerivedSources/i386 -I/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build/Debug/emptyExample.build/DerivedSources -D__MACOSX_CORE__ -lpthread -include /var/folders/-+/-+cpBmMNHfinPIZKUpFu1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-gbstarlscdzpjgfhfxnoajicbvlp/Carbon.h -c /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/src/testApp.cpp -o /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/testApp.o1#
-
-CLd /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/bin//emptyExampleDebug.app/Contents/MacOS/emptyExampleDebug normal i386
-r0
-
-CPBXCp bin/emptyExampleDebug.app/Contents/Frameworks/GLUT.framework ../../../libs/glut/lib/osx/GLUT.framework
-s339447705.959544
-e339447707.752784
-r1
-xPBXCp
-xbin/emptyExampleDebug.app/Contents/Frameworks/GLUT.framework
-x../../../libs/glut/lib/osx/GLUT.framework
-lSLF07#2@46"Copy ../../../libs/glut/lib/osx/GLUT.framework339447705#339447707#0(0"0(0#0#130"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../libs/glut/lib/osx/GLUT.framework8626942944#524"    cd /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../libs/glut/lib/osx/GLUT.framework /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/bin/emptyExampleDebug.app/Contents/Frameworks0#
-
-CPBXCp bin/emptyExampleDebug.app/Contents/Resources/openFrameworks-Info.plist openFrameworks-Info.plist
-s339447707.752956
-e339447707.758544
-r1
-xPBXCp
-xbin/emptyExampleDebug.app/Contents/Resources/openFrameworks-Info.plist
-xopenFrameworks-Info.plist
-lSLF07#2@30"Copy openFrameworks-Info.plist339447707#339447707#0(0"0(0#0#114"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/openFrameworks-Info.plist8604669984#507"    cd /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/openFrameworks-Info.plist /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/bin/emptyExampleDebug.app/Contents/Resources0#
-
-CPhaseScriptExecution スクリプトを実行 /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build/Debug/emptyExample.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
-s339447705.911699
-e339447705.959474
-r0
-xPhaseScriptExecution
-xスクリプトを実行
-x/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build/Debug/emptyExample.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
-ocp: /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/bin//emptyExampleDebug.app/Contents/MacOS/libfmodex.dylib: No such file or directory
-oinstall_name_tool: can't open file: /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/bin//emptyExampleDebug.app/Contents/MacOS/emptyExampleDebug (No such file or directory)
-lSLF07#2@53"Run custom shell script 'スクリプトを実行'339447705#339447705#0(391"cp: /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/bin//emptyExampleDebug.app/Contents/MacOS/libfmodex.dylib: No such file or directoryinstall_name_tool: can't open file: /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/bin//emptyExampleDebug.app/Contents/MacOS/emptyExampleDebug (No such file or directory)2(4@177"Cp: /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/bin//emptyExampleDebug.app/Contents/MacOS/libfmodex.dylib: No such file or directory339447705#0#178#0(1@0"0(13@213"install_name_tool: can't open file: /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/bin//emptyExampleDebug.app/Contents/MacOS/emptyExampleDebug (No such file or directory)339447705#178#213#0(1@0"0(0#0#0"8604123168#21790"    cd /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER mactkg    setenv ALWAYS_SEARCH_USER_PATHS YES    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_64_BIT "x86_64 i386"    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_STANDARD_64_BIT x86_64    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build    setenv BUILD_ROOT /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/bin/    setenv CACHE_ROOT /var/folders/-+/-+cpBmMNHfinPIZKUpFu1U+++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/-+/-+cpBmMNHfinPIZKUpFu1U+++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build/Debug/emptyExample.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/bin//emptyExampleDebug.app    setenv CODE_SIGNING_ALLOWED YES    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/-+/-+cpBmMNHfinPIZKUpFu1U+++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/bin/    setenv CONFIGURATION_TEMP_DIR /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build/Debug    setenv CONTENTS_FOLDER_PATH emptyExampleDebug.app/Contents    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING YES    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build/Debug/emptyExample.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build/Debug/emptyExample.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build/Debug/emptyExample.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH emptyExampleDebug.app/Contents/Resources/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/emptyExample.dst    setenv DWARF_DSYM_FILE_NAME emptyExampleDebug.app.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/bin/    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn .git CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn .git *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH emptyExampleDebug.app/Contents/Executables    setenv EXECUTABLE_FOLDER_PATH emptyExampleDebug.app/Contents/MacOS    setenv EXECUTABLE_NAME emptyExampleDebug    setenv EXECUTABLE_PATH emptyExampleDebug.app/Contents/MacOS/emptyExampleDebug    setenv FILE_LIST /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build/Debug/emptyExample.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build/Debug/emptyExample.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH emptyExampleDebug.app/Contents/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/bin/\"  \"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../libs/glut/lib/osx\""    setenv FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1 "\"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../libs/glut/lib/osx\""    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME emptyExampleDebug.app    setenv GCC3_VERSION 3.3    setenv GCC_AUTO_VECTORIZATION YES    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_ENABLE_FIX_AND_CONTINUE YES    setenv GCC_ENABLE_SSE3_EXTENSIONS YES    setenv GCC_ENABLE_SUPPLEMENTAL_SSE3_INSTRUCTIONS YES    setenv GCC_GENERATE_DEBUGGING_SYMBOLS YES    setenv GCC_INLINES_ARE_PRIVATE_EXTERN NO    setenv GCC_MODEL_TUNING G4    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h    setenv GCC_SYMBOLS_PRIVATE_EXTERN NO    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GCC_WARN_ABOUT_DEPRECATED_FUNCTIONS NO    setenv GCC_WARN_ABOUT_INVALID_OFFSETOF_MACRO NO    setenv GCC_WARN_ALLOW_INCOMPLETE_PROTOCOL NO    setenv GCC_WARN_UNINITIALIZED_AUTOS NO    setenv GCC_WARN_UNUSED_VALUE NO    setenv GCC_WARN_UNUSED_VARIABLE NO    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/bin//include\" ../../../libs/openFrameworks/** ../../../libs/freetype/include/ ../../../libs/freetype/include/freetype2 ../../../libs/poco/include ../../../addons/"    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE openFrameworks-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT same-as-input    setenv INFOPLIST_PATH emptyExampleDebug.app/Contents/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH emptyExampleDebug.app/Contents/Resources/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/emptyExample.dst/Users/mactkg/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER mactkg    setenv INSTALL_PATH /Users/mactkg/Applications    setenv INSTALL_ROOT /tmp/emptyExample.dst    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH emptyExampleDebug.app/Contents/Resources/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build/Debug/emptyExample.build/emptyExampleDebug-LinkMap-normal-i386.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/bin/\"  \"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../libs/freeimage/lib/osx\" \"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../libs/FreeImage/lib/osx\"  \"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../libs/GLee/lib/osx\" \"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../libs/poco/lib/osx\" \"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../libs/rtAudio/lib/osx\"        \"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../libs/fmodex/lib/osx\" \"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../libs/freetype/lib/osx\" \"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../libs/FreeImage/lib/osx\""    setenv LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_1 "\"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../libs/freeimage/lib/osx\""    setenv LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_14 "\"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../libs/fmodex/lib/osx\""    setenv LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_15 "\"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../libs/freetype/lib/osx\""    setenv LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_2 "\"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../libs/FreeImage/lib/osx\""    setenv LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_4 "\"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../libs/GLee/lib/osx\""    setenv LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_5 "\"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../libs/poco/lib/osx\""    setenv LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_6 "\"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../libs/rtAudio/lib/osx\""    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/emptyExampleDebug.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH emptyExampleDebug.app/Contents/Resources/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 10K549    setenv MAC_OS_X_VERSION_ACTUAL 1068    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0608    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build/Debug/emptyExample.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build/Debug/emptyExample.build/Objects-normal    setenv OBJROOT /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_CPLUSPLUSFLAGS "-D__MACOSX_CORE__ -lpthread"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH emptyExampleDebug.app/Contents/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS c++    setenv PKGINFO_FILE_PATH /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build/Debug/emptyExample.build/PkgInfo    setenv PKGINFO_PATH emptyExampleDebug.app/Contents/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/usr    setenv PLATFORM_NAME macosx    setenv PLATFORM_PRODUCT_BUILD_VERSION 10M2518    setenv PLIST_FILE_OUTPUT_FORMAT same-as-input    setenv PLUGINS_FOLDER_PATH emptyExampleDebug.app/Contents/PlugIns    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build/Debug/emptyExample.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH emptyExampleDebug.app/Contents/PrivateHeaders    setenv PRODUCT_NAME emptyExampleDebug    setenv PRODUCT_SETTINGS_PATH /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/openFrameworks-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT emptyExample    setenv PROJECT_DERIVED_FILE_DIR /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build/DerivedSources    setenv PROJECT_DIR /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample    setenv PROJECT_FILE_PATH /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/emptyExample.xcodeproj    setenv PROJECT_NAME emptyExample    setenv PROJECT_TEMP_DIR /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build    setenv PUBLIC_HEADERS_FOLDER_PATH emptyExampleDebug.app/Contents/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build/Debug/emptyExample.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build/Debug/emptyExample.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/bin/\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH emptyExampleDebug.app/Contents/Resources/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT     setenv SDK_PRODUCT_BUILD_VERSION 10K549    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHARED_DERIVED_FILE_DIR /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/bin//DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH emptyExampleDebug.app/Contents/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/-+/-+cpBmMNHfinPIZKUpFu1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH emptyExampleDebug.app/Contents/SharedSupport    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample    setenv SRCROOT /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING UTF-16    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SYMBOL_REPOSITORY_DIR /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build/Debug/emptyExample.build/SymbolRepositories    setenv SYMROOT /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETNAME emptyExample    setenv TARGET_BUILD_DIR /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/bin/    setenv TARGET_NAME emptyExample    setenv TARGET_TEMP_DIR /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build/Debug/emptyExample.build    setenv TEMP_DIR /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build/Debug/emptyExample.build    setenv TEMP_FILES_DIR /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build/Debug/emptyExample.build    setenv TEMP_FILE_DIR /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build/Debug/emptyExample.build    setenv TEMP_ROOT /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH emptyExampleDebug.app/Contents/Resources    setenv UNSTRIPPED_PRODUCT NO    setenv USER mactkg    setenv USER_APPS_DIR /Users/mactkg/Applications    setenv USER_LIBRARY_DIR /Users/mactkg/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS "i386 ppc ppc64 ppc7400 ppc970 x86_64"    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH emptyExampleDebug.app/Contents/version.plist    setenv VERSION_INFO_BUILDER mactkg    setenv VERSION_INFO_FILE emptyExampleDebug_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:emptyExampleDebug  PROJECT:emptyExample-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME emptyExampleDebug.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 10M2518    setenv XCODE_VERSION_ACTUAL 0400    setenv XCODE_VERSION_MAJOR 0400    setenv XCODE_VERSION_MINOR 0400    setenv YACC /Developer/usr/bin/yacc    setenv ZERO_LINK NO    /bin/sh -c /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build/Debug/emptyExample.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh1#
-
-CProcessInfoPlistFile /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/bin//emptyExampleDebug.app/Contents/Info.plist openFrameworks-Info.plist
-s339447698.998277
-e339447699.067920
-r1
-xProcessInfoPlistFile
-x/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/bin//emptyExampleDebug.app/Contents/Info.plist
-xopenFrameworks-Info.plist
-lSLF07#2@33"Process openFrameworks-Info.plist339447699#339447699#0(0"0(0#0#114"/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/openFrameworks-Info.plist30962560973865076#473"    cd /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample    builtin-infoPlistUtility openFrameworks-Info.plist -genpkginfo /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/bin//emptyExampleDebug.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/bin//emptyExampleDebug.app/Contents/Info.plist0#
-
-CProcessPCH++ /var/folders/-+/-+cpBmMNHfinPIZKUpFu1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-gbstarlscdzpjgfhfxnoajicbvlp/Carbon.h.gch /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.gcc.4_2
-s339447699.068112
-e339447704.559880
-r1
-xProcessPCH++
-x/var/folders/-+/-+cpBmMNHfinPIZKUpFu1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-gbstarlscdzpjgfhfxnoajicbvlp/Carbon.h.gch
-x/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
-xnormal
-xi386
-xc++
-xcom.apple.compilers.gcc.4_2
-oi686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
-lSLF07#2@71"Precompile /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h339447699#339447704#0(92"i686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#60"/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h8623190208#1831"    cd /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build/Debug/emptyExample.build/emptyExampleDebug.hmap -F/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/bin -F/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/../../../libs/glut/lib/osx -I/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/bin/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/poco/include -I../../../addons -I/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build/Debug/emptyExample.build/DerivedSources/i386 -I/Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/build/emptyExample.build/Debug/emptyExample.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h -o /var/folders/-+/-+cpBmMNHfinPIZKUpFu1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-gbstarlscdzpjgfhfxnoajicbvlp/Carbon.h.gch0#
-
-CTouch /Users/mactkg/work/openFrameworks/of_preRelease_v0062_osxSL_FAT/apps/myapps/emptyExample/bin//emptyExampleDebug.app
-r0
-
