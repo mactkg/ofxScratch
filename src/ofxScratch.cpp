@@ -43,16 +43,16 @@ void ofxScratch::update() {
 void ofxScratch::sensorUpdate(string sensor, string val) {
 	msgTx = "sensor-update \"" + sensor + "\" " + val;
 	if(!broadcastScratch(msgTx)) {
-    std::cout << "connection is lost" << endl;
-    weConnected = false;
+    　		std::cout << "connection is lost" << endl;
+    		weConnected = false;
 	}
 }
 
 void ofxScratch::sendBroadcast(string val) {
 	msgTx = "broadcast \"" + val + "\"";
 	if(broadcastScratch(msgTx)) {
-    std::cout << "connection is lost" << endl;
-    weConnected = false;
+    		std::cout << "connection is lost" << endl;
+    		weConnected = false;
 	}
 }
 
