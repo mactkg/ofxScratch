@@ -11,10 +11,11 @@
 #include "ofUtils.h"
 
 void ofxScratch::setup() {
+  std::cout << "---ofxScratch setup----" << endl;
 	msgTx = "";
 	weConnected = tcpClient.setup("127.0.0.1", 42001);
-	if(weConnected) std::cout << "connected" << endl;
-	if(!weConnected) std::cout << "not connected" << endl;
+	if(weConnected) std::cout << "success connecting to scratch!" << endl;
+	if(!weConnected) std::cout << "failed connecting to scratch...X(" << endl;
 	connectTime = 0;
 	deltaTime = 0;
 	tcpClient.setVerbose(true);
@@ -22,8 +23,8 @@ void ofxScratch::setup() {
 
 void ofxScratch::update() {
     if(weConnected) {
-		msgTx = "";
-		msgRx = "";
+		    msgTx = "";
+		    msgRx = "";
         string str = tcpClient.receive();
         if( str.length() > 0 ) {
             msgRx = str;
@@ -33,9 +34,9 @@ void ofxScratch::update() {
         if( deltaTime > 5000) {
             weConnected = tcpClient.setup("127.0.0.1", 42001);
             connectTime = ofGetElapsedTimeMillis();
-			std::cout << "connection is lost, reconnecting... " << connectTime << endl;
+			std::cout << "lost connection, reconnecting... " << connectTime << endl;
         }
-		if (weConnected) std::cout << "connected" << endl;
+		if (weConnected) std::cout << "success reconnect!" << endl;
     }
 }
 
