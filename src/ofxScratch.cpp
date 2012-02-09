@@ -11,7 +11,7 @@
 #include "ofUtils.h"
 
 void ofxScratch::setup() {
-  std::cout << "---ofxScratch setup----" << endl;
+    std::cout << "---ofxScratch setup----" << endl;
 	msgTx = "";
 	weConnected = tcpClient.setup("127.0.0.1", 42001);
 	if(weConnected) std::cout << "success connecting to scratch!" << endl;
@@ -34,7 +34,7 @@ void ofxScratch::update() {
         if( deltaTime > 5000) {
             weConnected = tcpClient.setup("127.0.0.1", 42001);
             connectTime = ofGetElapsedTimeMillis();
-			std::cout << "lost connection, reconnecting... " << connectTime << endl;
+            std::cout << "lost connection, reconnecting... " << connectTime << endl;
         }
 		if (weConnected) std::cout << "success reconnect!" << endl;
     }
@@ -43,7 +43,7 @@ void ofxScratch::update() {
 void ofxScratch::sensorUpdate(string sensor, string val) {
 	msgTx = "sensor-update \"" + sensor + "\" " + val;
 	if(!broadcastScratch(msgTx)) {
-    　		std::cout << "connection is lost" << endl;
+        std::cout << "connection is lost" << endl;
     		weConnected = false;
 	}
 }
