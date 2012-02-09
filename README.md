@@ -16,7 +16,8 @@ REQUIRE ADDONS
 
 CHANGE LOG
 ==========
-- 2011/10/13 - v002 release (add some message while connect)
-- 2011/10/05 - v001 release
+- 2012/02/10 - v003 (add examples for v0062 and v007)
+- 2011/10/13 - v002 (add some message while connect)
+- 2011/10/05 - v001
 
 made by @mactkg
