@@ -41,7 +41,7 @@ void ofxScratch::update() {
 }
 
 void ofxScratch::sensorUpdate(string sensor, string val) {
-	msgTx = "sensor-update \"" + sensor + "\" " + val;
+	msgTx = "sensor-update \"" + sensor + "\"" + val;
 	if(!broadcastScratch(msgTx)) {
         std::cout << "connection is lost" << endl;
     		weConnected = false;
@@ -64,17 +64,21 @@ bool ofxScratch::broadcastScratch(string message){
 	sizeBytes[1] =(unsigned char)( (len << 8) >> 24 );
 	sizeBytes[2] =(unsigned char)( (len << 16) >> 24 );
 	sizeBytes[3] =(unsigned char)( (len << 24) >> 24 );
-
-	if(tcpClient.sendRawBytes((char*)sizeBytes, 4)) {
-	   
-	} else {
-	   return false;
-	}
-	if(tcpClient.sendRaw(message)) {
-	   return true;
-	} else {
-	   return false;  
-	}
+    
+    if(weConnected) {
+        if(tcpClient.sendRawBytes((char*)sizeBytes, 4)) {
+           
+        } else {
+           return false;
+        }
+        if(tcpClient.sendRaw(message)) {
+           return true;
+        } else {
+           return false;  
+        }
+    } else {
+        return false;
+    }
 }
 
 int ofxScratch::getConnectTime() {
