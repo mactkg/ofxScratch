@@ -16,16 +16,16 @@ class ofxScratch {
 public:
 	void setup();
 	void update();
-    bool broadcastScratch(string message);
+    bool sendMessage(string message);
 	void sensorUpdate(string sensor, string val);
-	void sendBroadcast(string val);
+	void broadcastUpdate(string val);
 	int getConnectTime();
     int getDeltaTime();
     bool getWeConnected();
 
 private:
 	ofxTCPClient tcpClient;
-	string msgTx, msgRx;
+	string msgTxS, msgTxB, msgRx;
 
 	float counter;
 	int connectTime;

@@ -12,7 +12,8 @@
 
 void ofxScratch::setup() {
     std::cout << "---ofxScratch setup----" << endl;
-	msgTx = "";
+	msgTxS = "sensor-update";
+    msgTxB = "broadcast";
 	weConnected = tcpClient.setup("127.0.0.1", 42001);
 	if(weConnected) std::cout << "success connecting to scratch!" << endl;
 	if(!weConnected) std::cout << "failed connecting to scratch...X(" << endl;
@@ -23,8 +24,24 @@ void ofxScratch::setup() {
 
 void ofxScratch::update() {
     if(weConnected) {
-		    msgTx = "";
-		    msgRx = "";
+        //sensor-send
+        if (msgTxS != "sensor-update") {
+            if (!sendMessage(msgTxS)) {
+                std::cout << "connection is lost" << endl;
+                weConnected = false;
+            }
+        }
+        //broadcast-send
+        if (msgTxB != "broadcast") {
+            if (!sendMessage(msgTxB)) {
+                std::cout << "connection is lost" << endl;
+                weConnected = false;
+            }
+        }
+        msgTxS = "sensor-update";
+        msgTxB = "broadcast";
+        
+        msgRx = "";
         string str = tcpClient.receive();
         if( str.length() > 0 ) {
             msgRx = str;
@@ -38,25 +55,18 @@ void ofxScratch::update() {
         }
 		if (weConnected) std::cout << "success reconnect!" << endl;
     }
+    
 }
 
 void ofxScratch::sensorUpdate(string sensor, string val) {
-	msgTx = "sensor-update \"" + sensor + "\"" + val;
-	if(!broadcastScratch(msgTx)) {
-        std::cout << "connection is lost" << endl;
-    		weConnected = false;
-	}
+	msgTxS += " \"" + sensor + "\" " + val;
 }
 
-void ofxScratch::sendBroadcast(string val) {
-	msgTx = "broadcast \"" + val + "\"";
-	if(broadcastScratch(msgTx)) {
-    		std::cout << "connection is lost" << endl;
-    		weConnected = false;
-	}
+void ofxScratch::broadcastUpdate(string val) {
+	msgTxB += " \"" + val + "\"";
 }
 
-bool ofxScratch::broadcastScratch(string message){
+bool ofxScratch::sendMessage(string message){
 	unsigned char sizeBytes[4];
 	int len = message.size();
 
