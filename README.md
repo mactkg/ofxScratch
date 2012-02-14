@@ -6,8 +6,8 @@ ofxScratch is openFrameworks addon for connecting to Scratch with remort-sensor 
 
 How to use it?
 ==============
-Sorry, please see example.
-I will write a usage soon.
+Please see the example.
+![figure](https://lh3.googleusercontent.com/-3tlAalVjvdE/Tzcjw8iwXNI/AAAAAAAAAgA/DRc3SSanMII/s640/figure.001.jpg)
 
 REQUIRE ADDONS
 ==============
@@ -16,6 +16,7 @@ REQUIRE ADDONS
 
 CHANGE LOG
 ==========
+- 2012/02/12 - v004 (acceleration)
 - 2012/02/10 - v003 (add examples for v0062 and v007)
 - 2011/10/13 - v002 (add some message while connect)
 - 2011/10/05 - v001
