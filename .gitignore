@@ -1,8 +1,8 @@
 .DS_Store
 
-examples/ofxScratchExample/bin/
 build
 
+.app
 ._*
 .Spotlight-v100
 .Trashes
