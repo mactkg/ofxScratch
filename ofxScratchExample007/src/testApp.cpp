@@ -7,7 +7,7 @@ void testApp::setup(){
 
 //--------------------------------------------------------------
 void testApp::update(){
-	scratchClient.update();
+    scratchClient.update();
 	scratchClient.sensorUpdate("message", "Helloworld!");
 }
 
@@ -51,3 +51,12 @@ void testApp::windowResized(int w, int h){
 
 }
 
+//--------------------------------------------------------------
+void testApp::gotMessage(ofMessage msg){
+
+}
+
+//--------------------------------------------------------------
+void testApp::dragEvent(ofDragInfo dragInfo){ 
+
+}
