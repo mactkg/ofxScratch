@@ -24,7 +24,8 @@ public:
     bool getWeConnected();
 
 private:
-	ofxTCPClient tcpClient;
+    
+	ofxUDPManager udpClient;
 	string msgTxS, msgTxB, msgRx;
 
 	float counter;
