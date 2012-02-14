@@ -16,6 +16,7 @@ REQUIRE ADDONS
 
 CHANGE LOG
 ==========
+- 2012/02/14 - v005 (change connection protcol to udp from tcp)
 - 2012/02/12 - v004 (acceleration)
 - 2012/02/10 - v003 (add examples for v0062 and v007)
 - 2011/10/13 - v002 (add some message while connect)
