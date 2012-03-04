@@ -19,7 +19,6 @@ void ofxScratch::setup() {
 	if(!weConnected) std::cout << "failed connecting to scratch...X(" << endl;
 	connectTime = 0;
 	deltaTime = 0;
-	udpClient.setVerbose(true);
 }
 
 void ofxScratch::update() {
@@ -42,14 +41,18 @@ void ofxScratch::update() {
         msgTxB = "broadcast";
         
         msgRx = "";
-        string str = udpClient.receive();
+        char pBuf[100];
+        string str;
+        int iSize;
+        udpClient.Receive(pBuf, iSize);
+        str.append(pBuf, iSize);
         if( str.length() > 0 ) {
             msgRx = str;
         }
     } else {
         deltaTime = ofGetElapsedTimeMillis() - connectTime;
         if( deltaTime > 5000) {
-            weConnected = udpClient.setup("127.0.0.1", 42001);
+            weConnected = udpClient.Connect("127.0.0.1", 42001);
             connectTime = ofGetElapsedTimeMillis();
             std::cout << "lost connection, reconnecting... " << connectTime << endl;
         }
@@ -81,7 +84,7 @@ bool ofxScratch::sendMessage(string message){
         } else {
            return false;
         }
-        if(udpClient.Send(message, message.size())) {
+        if(udpClient.Send(message.c_str(), message.size())) {
            return true;
         } else {
            return false;  
