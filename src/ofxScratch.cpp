@@ -14,6 +14,7 @@ void ofxScratch::setup() {
     std::cout << "---ofxScratch setup----" << endl;
 	msgTxS = "sensor-update";
     msgTxB = "broadcast";
+    udpClient.Create();
 	weConnected = udpClient.Connect("127.0.0.1", 42001);
 	if(weConnected) std::cout << "success connecting to scratch!" << endl;
 	if(!weConnected) std::cout << "failed connecting to scratch...X(" << endl;
@@ -41,14 +42,8 @@ void ofxScratch::update() {
         msgTxB = "broadcast";
         
         msgRx = "";
-        char pBuf[100];
-        string str;
-        int iSize;
-        udpClient.Receive(pBuf, iSize);
-        str.append(pBuf, iSize);
-        if( str.length() > 0 ) {
-            msgRx = str;
-        }
+        // receive flow haven't coded yet
+        
     } else {
         deltaTime = ofGetElapsedTimeMillis() - connectTime;
         if( deltaTime > 5000) {
@@ -56,7 +51,7 @@ void ofxScratch::update() {
             connectTime = ofGetElapsedTimeMillis();
             std::cout << "lost connection, reconnecting... " << connectTime << endl;
         }
-		if (weConnected) std::cout << "success reconnect!" << endl;
+		if (weConnected) std::cout << "success reconnecting!" << endl;
     }
     
 }
