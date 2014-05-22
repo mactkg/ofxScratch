@@ -9,7 +9,7 @@ How to use it?
 Please see the example.
 ![figure](https://lh3.googleusercontent.com/-3tlAalVjvdE/Tzcjw8iwXNI/AAAAAAAAAgA/DRc3SSanMII/s640/figure.001.jpg)
 
-REQUIRE ADDONS
+dependencies
 ==============
 - ofxNetwork(0.01)
 - ofxThread(0.01)
