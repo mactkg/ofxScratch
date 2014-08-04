@@ -1,0 +1,11 @@
+{ "extensionName": "ofExample",
+  "extensionPort": 8888,
+  "blockSpecs": [
+    ["r", "get %m.name position", "position"],
+    ["r", "get elapsedTime", "elapsedTime"],
+    [" ", "Bang!", "bang"],
+  ],
+  "menus": {
+    "name": ["mouseX", "mouseY", "ofWindowWidth", "ofWindowHeight"],
+  },
+}
