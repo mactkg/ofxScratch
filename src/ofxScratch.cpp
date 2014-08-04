@@ -3,7 +3,6 @@
  *  
  *
  *  Created by mactkg on 10/2/11.
- *  Copyright 2011 Tokyo Tech High School of Science and Technoligy. All rights reserved.
  *
  */
 
@@ -11,13 +10,13 @@
 #include "ofUtils.h"
 
 void ofxScratch::setup() {
-    std::cout << "---ofxScratch setup----" << endl;
+    ofLogNotice("ofxScratch") << "setup" << endl;
 	msgTxS = "sensor-update";
     msgTxB = "broadcast";
     udpClient.Create();
 	weConnected = udpClient.Connect("127.0.0.1", 42001);
-	if(weConnected) std::cout << "success connecting to scratch!" << endl;
-	if(!weConnected) std::cout << "failed connecting to scratch...X(" << endl;
+	if(weConnected) ofLogNotice("ofxScratch") << "Success connecting to scratch!" << endl;
+	if(!weConnected) ofLogError("ofxScratch") << "Failed connecting to scratch." << endl;
 	connectTime = 0;
 	deltaTime = 0;
 }
@@ -27,14 +26,14 @@ void ofxScratch::update() {
         //sensor-send
         if (msgTxS != "sensor-update") {
             if (!sendMessage(msgTxS)) {
-                std::cout << "connection is lost" << endl;
+                ofLogError("ofxScratch") << "connection is lost" << endl;
                 weConnected = false;
             }
         }
         //broadcast-send
         if (msgTxB != "broadcast") {
             if (!sendMessage(msgTxB)) {
-                std::cout << "connection is lost" << endl;
+                ofLogError("ofxScratch") << "connection is lost" << endl;
                 weConnected = false;
             }
         }
@@ -49,9 +48,9 @@ void ofxScratch::update() {
         if( deltaTime > 5000) {
             weConnected = udpClient.Connect("127.0.0.1", 42001);
             connectTime = ofGetElapsedTimeMillis();
-            std::cout << "lost connection, reconnecting... " << connectTime << endl;
+            ofLogNotice("ofxScratch") << "Lost connection, reconnecting... " << connectTime << endl;
         }
-		if (weConnected) std::cout << "success reconnecting!" << endl;
+		if (weConnected) ofLogNotice("ofxScratch") << "success reconnecting!" << endl;
     }
     
 }

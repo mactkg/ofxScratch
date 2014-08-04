@@ -3,7 +3,6 @@
  *  
  *
  *  Created by mactkg on 10/2/11.
- *  Copyright 2011 Tokyo Tech High School of Science and Technoligy. All rights reserved.
  *
  */
 
@@ -14,24 +13,24 @@
 
 class ofxScratch {
 public:
-	void setup();
-	void update();
+    void setup();
+    void update();
     bool sendMessage(string message);
-	void sensorUpdate(string sensor, string val);
-	void broadcastUpdate(string val);
-	int getConnectTime();
+    void sensorUpdate(string sensor, string val);
+    void broadcastUpdate(string val);
+    int getConnectTime();
     int getDeltaTime();
     bool getWeConnected();
 
 private:
     
-	ofxUDPManager udpClient;
-	string msgTxS, msgTxB, msgRx;
+    ofxUDPManager udpClient;
+    string msgTxS, msgTxB, msgRx;
 
-	float counter;
-	int connectTime;
-	int deltaTime;
+    float counter;
+    int connectTime;
+    int deltaTime;
 
-	bool weConnected;
+    bool weConnected;
 };
 #endif
