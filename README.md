@@ -8,7 +8,7 @@ ofxScratch is openFrameworks addon to communicate with Scratch using [Scratch Ex
 ## Scratch2.x
 - show chapter of "HTTP Extensions" in [this page](http://wiki.scratch.mit.edu/wiki/Scratch_Extension_Protocol_%282.0%29)
 
-# REQUIRE ADDONS
+# dependencies
 ## Scratch1.x
 - ofxNetwork(0.01)
 - ofxThread(0.01)
