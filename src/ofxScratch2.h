@@ -31,7 +31,7 @@ namespace ofxScratch2 {
         ~Offline(){};
         
         void setup(string const serverroot, int const port = 8080);
-        void updateValue(string const path, int value);
+        void updateValue(string const path, string const value);
         
         void getRequest(ofxHTTPServerResponse &response);
         void fileNotFound(ofxHTTPServerResponse &response);

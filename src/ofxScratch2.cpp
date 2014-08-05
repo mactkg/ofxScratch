@@ -19,8 +19,8 @@ namespace ofxScratch2 {
         server->start(port);
     }
     
-    void Offline::updateValue(string const path, int const value) {
-        pool[path] = ofToString(value);
+    void Offline::updateValue(string const path, string const value) {
+        pool[path] = value;
     }
     
     void Offline::getRequest(ofxHTTPServerResponse &response) {
